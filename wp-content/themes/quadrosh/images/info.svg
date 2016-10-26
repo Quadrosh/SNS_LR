@@ -1,0 +1,46 @@
+<!-- width="300px" -->
+<svg version="1.1" 
+	id="info_x5F_ico" 
+	xmlns="http://www.w3.org/2000/svg" 
+	xmlns:xlink="http://www.w3.org/1999/xlink" 
+	x="0px" y="0px" 
+	viewBox="0 0 380 380" 
+	
+	style="enable-background:new 0 0 380 380;" 
+	xml:space="preserve"
+	>
+<style type="text/css">
+	.st0{clip-path:url(#XMLID_170_);fill:none;stroke:#FFCC60;stroke-width:15;}
+	.st1{clip-path:url(#XMLID_171_);fill:none;stroke:#FFCC60;stroke-width:15;}
+	.st2{clip-path:url(#XMLID_308_);fill:none;stroke:#FFCC60;stroke-width:15;}
+</style>
+<g id="info">
+	<g id="XMLID_679_">
+		<defs>
+			<rect id="XMLID_680_" x="66" y="65.1" width="250.8" height="250.8"/>
+		</defs>
+		<clipPath id="XMLID_170_">
+			<use xlink:href="#XMLID_680_"  style="overflow:visible;"/>
+		</clipPath>
+		<circle id="Cco_circle_3_1_" class="st0" cx="66" cy="315.8" r="238.5"/>
+	</g>
+	<g id="XMLID_677_">
+		<defs>
+			<rect id="XMLID_678_" x="66" y="65.1" width="250.8" height="250.8"/>
+		</defs>
+		<clipPath id="XMLID_171_">
+			<use xlink:href="#XMLID_678_"  style="overflow:visible;"/>
+		</clipPath>
+		<circle id="Cco_circle_2_1_" class="st1" cx="66" cy="315.8" r="159"/>
+	</g>
+	<g id="XMLID_675_">
+		<defs>
+			<rect id="XMLID_676_" x="66" y="65.1" width="250.8" height="250.8"/>
+		</defs>
+		<clipPath id="XMLID_308_">
+			<use xlink:href="#XMLID_676_"  style="overflow:visible;"/>
+		</clipPath>
+		<circle id="Cco_circle_1_1_" class="st2" cx="66" cy="315.8" r="79.5"/>
+	</g>
+</g>
+</svg>
